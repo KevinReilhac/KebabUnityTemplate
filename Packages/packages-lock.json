@@ -14,7 +14,7 @@
       "dependencies": {
         "com.kebab.custom_managers": ""
       },
-      "hash": "aa9f0297108811dbc6c9b47d0feed77a18a7af75"
+      "hash": "c11e7b3dcd07d33246ca4c4ea07bf239f8f51019"
     },
     "com.kebab.extentions": {
       "version": "git@github.com:KevinReilhac/Extentions.git",
