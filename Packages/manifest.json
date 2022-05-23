@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "com.kebab.custom_managers": "git@github.com:KevinReilhac/CustomManagers.git",
+    "com.kebab.design_data": "git@github.com:KevinReilhac/DesignData.git",
     "com.kebab.extentions": "git@github.com:KevinReilhac/Extentions.git",
     "com.unity.collab-proxy": "1.15.1",
     "com.unity.feature.development": "1.0.1",
